@@ -1,6 +1,6 @@
 # Hi! I'm Aditi. Welcome to my digital space! ✨
 
-I'm a developer who loves the intersection of design and data. From solving complex algorithms to designing pixel-perfect interfaces, I enjoy every part of the building process.
+I'm a developer who loves the intersection of design and data. From solving complex algorithms to designing interfaces, I enjoy every part of the building process and learning.
 
 ---
 
